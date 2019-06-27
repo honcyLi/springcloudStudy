@@ -1,2 +1,3 @@
 # springcloudStudy
 springcloud学习路程
+此项目的项目目的时为了更好地掌握springcloud的知识点，纯粹时为了自我。第一次再工作后主动再git创建学习项目，如果能为广大网友提供一点帮助，深感荣幸！
